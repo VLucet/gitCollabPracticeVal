@@ -12,3 +12,5 @@ adding more text
 adding my comment
 
 even more text
+
+new line
