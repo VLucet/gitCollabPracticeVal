@@ -19,3 +19,4 @@ new line
 
 my favorite book is "why fish don't exist"
 my favorite artist is "noah kahan"
+my fav color is "blue"
