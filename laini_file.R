@@ -1,2 +1,6 @@
 # new practice file
-first line
+# first line
+
+# adding libraries
+library(lme4)
+library(ggplot2)
