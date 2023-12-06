@@ -2,3 +2,5 @@
 
 objecta <- 11
 objectb <- 4
+
+ANEWOBJECT
